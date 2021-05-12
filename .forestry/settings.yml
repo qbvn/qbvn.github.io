@@ -7,16 +7,15 @@ sections:
 - type: document
   path: _posts
   label: Posts_ReadOnly
-  match: "**/*"
   read_only: true
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: jekyll-pages
   label: Pages
   create: all
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
