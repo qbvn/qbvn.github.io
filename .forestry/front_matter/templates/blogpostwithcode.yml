@@ -22,6 +22,9 @@ fields:
   name: categories
   label: categories
   default: blog
+  config:
+    required: true
+    min: 1
 - type: list
   name: tags
   label: tags
