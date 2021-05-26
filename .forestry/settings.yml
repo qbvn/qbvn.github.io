@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _pages/*.md
+  path: _pages/**/*
   label: mdPages
 - type: jekyll-pages
   label: Pages
