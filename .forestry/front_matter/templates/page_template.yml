@@ -1,0 +1,50 @@
+---
+label: Page_Template
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: taxonomy
+  label: taxonomy
+- type: boolean
+  name: comments
+  label: comments
+- type: boolean
+  name: author_profile
+  label: author_profile
+- type: text
+  name: entries_layout
+  label: entries_layout
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: overlay_color
+    label: overlay_color
+  - type: text
+    name: overlay_filter
+    label: overlay_filter
+  - type: file
+    name: overlay_image
+    label: overlay_image
+  - type: text
+    name: caption
+    label: caption
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: number
+  name: paginate
+  label: paginate
+- type: text
+  name: paginate_path
+  label: paginate_path
