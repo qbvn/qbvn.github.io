@@ -24,3 +24,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/fix-for-error-unable-to-update-local-ref.md
