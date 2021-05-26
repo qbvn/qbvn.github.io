@@ -30,4 +30,4 @@ This error is returned after _git pull:_
 
 **Explaination:**
 
-to be continued
+_to be filled here_
