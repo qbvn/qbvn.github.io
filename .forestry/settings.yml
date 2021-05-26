@@ -9,8 +9,6 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  templates:
-  - page_template
 - type: jekyll-pages
   label: htmlPages
   create: all
