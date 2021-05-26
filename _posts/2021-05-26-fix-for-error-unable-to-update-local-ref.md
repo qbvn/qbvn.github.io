@@ -4,7 +4,7 @@ date: 2021-05-25 22:00:00 +0000
 header:
   teaser: "/uploads/git_pull_unable_to_update_local_ref.png"
   overlay_image: "/uploads/git_pull_unable_to_update_local_ref.png"
-categories: ''
+categories: blog
 tags:
 - solution
 - git
