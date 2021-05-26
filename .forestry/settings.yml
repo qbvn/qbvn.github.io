@@ -15,7 +15,7 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-  new_doc_ext: md
+  new_doc_ext: ''
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
