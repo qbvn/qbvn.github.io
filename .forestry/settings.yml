@@ -12,10 +12,6 @@ sections:
   new_doc_ext: md
   templates:
   - blogpostwithcode
-- type: jekyll-pages
-  label: Pages
-  create: all
-  new_doc_ext: _pages/**/*
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
