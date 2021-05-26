@@ -6,6 +6,7 @@ header:
   overlay_image: "/uploads/git_pull_unable_to_update_local_ref.png"
 categories: blog
 tags:
+- fix
 - solution
 - git
 - IT
